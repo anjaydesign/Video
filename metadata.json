@@ -1,0 +1,6 @@
+{
+  "name": "OpenMontage",
+  "description": "Studio Produksi Video Vertikal Otomatis (9:16) untuk promosi, edukasi, dan media sosial dengan AI Script Assistant, Storyboard, Canvas Studio, dan ekspor instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
